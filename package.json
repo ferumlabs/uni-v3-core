@@ -1,5 +1,5 @@
 {
-  "name": "@ferum-labs/v3-core",
+  "name": "@ferum-labs/uniswap-v3-core",
   "description": "🦄 Core smart contracts of Uniswap V3",
   "license": "BUSL-1.1",
   "publishConfig": {
